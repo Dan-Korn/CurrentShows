@@ -1,5 +1,4 @@
 Current:
-The Mandalorian
 Abbott Elementary
 Battlebots
 Penn and Teller: Fool Us
@@ -105,3 +104,4 @@ The Last of Us
 Your Honor
 Shrinking
 The Bad Batch
+The Mandalorian
