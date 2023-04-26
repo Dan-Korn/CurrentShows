@@ -2,7 +2,6 @@ Current:
 Abbott Elementary
 Battlebots
 Penn and Teller: Fool Us
-Picard
 Bob’s Burgers
 Ted Lasso
 Yellowjackets
@@ -31,7 +30,6 @@ Jimmy Kimmel Live
 Amber Ruffin Show
 The Daily Show
 Saturday Night Live
-The Graham Norton Show
 The Problem with Jon Stewart
 Last Week Tonight
 
@@ -105,3 +103,5 @@ Your Honor
 Shrinking
 The Bad Batch
 The Mandalorian
+The Graham Norton Show
+Picard
