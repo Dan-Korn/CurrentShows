@@ -6,7 +6,6 @@ Bob’s Burgers
 Ted Lasso
 Yellowjackets
 Bar Rescue
-Shadow and Bone
 Succession
 Party Down
 Schmigadoon
@@ -22,6 +21,7 @@ Hunters
 Black Bird
 Lucky Hank
 The Big Door Prize
+Citadel
 
 Ongoing:
 The Late Show with Stephen Colbert
@@ -36,6 +36,7 @@ Last Week Tonight
 Movies (unwatched):
 The Fastest Woman on Earth
 Blonde
+Licorice Pizza
 
 Movies watched:
 The Menu
@@ -105,3 +106,4 @@ The Bad Batch
 The Mandalorian
 The Graham Norton Show
 Picard
+Shadow and Bone
