@@ -8,11 +8,10 @@ Yellowjackets
 Bar Rescue
 Succession
 Party Down
-Schmigadoon
 Barry
 A Black Lady Sketch Show
 The Marvelous Mrs. Maisel
-The Diplomat
+Young Jedi Adventures
 
 Queued:
 Warrior Nun
@@ -25,7 +24,8 @@ The Big Door Prize
 Citadel
 The Night Agent
 A Small Light
-Young Jedi Adventures
+Drops of God
+Sweet Tooth
 
 Ongoing:
 The Late Show with Stephen Colbert
@@ -112,3 +112,5 @@ The Graham Norton Show
 Picard
 Shadow and Bone
 Star Wars Visions
+The Diplomat
+Schmigadoon
