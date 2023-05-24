@@ -1,5 +1,4 @@
 Current:
-Abbott Elementary
 Battlebots
 Penn and Teller: Fool Us
 Bob’s Burgers
@@ -13,7 +12,6 @@ A Black Lady Sketch Show
 The Marvelous Mrs. Maisel
 Young Jedi Adventures
 Silo
-The Great
 
 Queued:
 Warrior Nun
@@ -118,3 +116,5 @@ Star Wars Visions
 The Diplomat
 Schmigadoon
 Sweet Tooth
+Abbott Elementary
+The Great
