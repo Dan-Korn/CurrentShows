@@ -3,15 +3,15 @@ Battlebots
 Penn and Teller: Fool Us
 Bob’s Burgers
 Ted Lasso
-Yellowjackets
 Bar Rescue
 Succession
 Party Down
 Barry
 A Black Lady Sketch Show
-The Marvelous Mrs. Maisel
 Young Jedi Adventures
 Silo
+The Night Agent
+Landscapers
 
 Queued:
 Warrior Nun
@@ -22,7 +22,6 @@ Black Bird
 Lucky Hank
 The Big Door Prize
 Citadel
-The Night Agent
 A Small Light
 Drops of God
 Beef
@@ -118,3 +117,5 @@ Schmigadoon
 Sweet Tooth
 Abbott Elementary
 The Great
+The Marvelous Mrs. Maisel
+Yellowjackets
