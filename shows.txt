@@ -1,12 +1,7 @@
 Current:
-Battlebots
-Penn and Teller: Fool Us
 Bob’s Burgers
-Ted Lasso
 Bar Rescue
-Succession
 Party Down
-Barry
 A Black Lady Sketch Show
 Young Jedi Adventures
 Silo
@@ -119,3 +114,8 @@ Abbott Elementary
 The Great
 The Marvelous Mrs. Maisel
 Yellowjackets
+Battlebots
+Penn and Teller: Fool Us
+Ted Lasso
+Succession
+Barry
