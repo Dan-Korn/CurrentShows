@@ -4,13 +4,12 @@ Bar Rescue
 Party Down
 A Black Lady Sketch Show
 Silo
-The Night Agent
 The Cleaner
+Kindred
 
 Queued:
 Warrior Nun
 Hot Skull
-Kindred
 Hunters
 Black Bird
 Lucky Hank
@@ -120,3 +119,4 @@ Ted Lasso
 Succession
 Barry
 Landscapers
+The Night Agent
