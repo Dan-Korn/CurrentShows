@@ -1,11 +1,11 @@
 Current:
 Bob’s Burgers
 Bar Rescue
-Party Down
 A Black Lady Sketch Show
 Silo
 The Cleaner
 Kindred
+Jury Duty
 
 Queued:
 Warrior Nun
@@ -18,7 +18,6 @@ Citadel
 A Small Light
 Drops of God
 Beef
-Jury Duty
 
 Ongoing (on hiatus due to writers' strike):
 The Late Show with Stephen Colbert
@@ -120,3 +119,4 @@ Succession
 Barry
 Landscapers
 The Night Agent
+Party Down
