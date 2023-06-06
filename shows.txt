@@ -4,8 +4,6 @@ Bar Rescue
 A Black Lady Sketch Show
 Silo
 The Cleaner
-Kindred
-Jury Duty
 Fear the Walking Dead
 
 Queued:
@@ -121,3 +119,5 @@ Barry
 Landscapers
 The Night Agent
 Party Down
+Kindred
+Jury Duty
