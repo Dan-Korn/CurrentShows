@@ -2,10 +2,9 @@ Current:
 Bob’s Burgers
 Bar Rescue
 Silo
-The Cleaner
 Fear the Walking Dead
-Staged
 It's Always Sunny in Philadelphia
+Beef
 
 Queued:
 Warrior Nun
@@ -17,8 +16,9 @@ The Big Door Prize
 Citadel
 A Small Light
 Drops of God
-Beef
 Katla
+Somebody Sonewhere
+Jewish Matchmaking
 
 Ongoing (on hiatus due to writers' strike):
 The Late Show with Stephen Colbert
@@ -34,6 +34,7 @@ Movies (unwatched):
 The Fastest Woman on Earth
 Blonde
 Licorice Pizza
+Avatar: The Way of Water
 
 Movies watched:
 The Menu
@@ -124,3 +125,5 @@ Party Down
 Kindred
 Jury Duty
 A Black Lady Sketch Show
+The Cleaner
+Staged
