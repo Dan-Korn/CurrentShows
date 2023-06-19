@@ -1,10 +1,12 @@
 Current:
 Bob’s Burgers
 Silo
-Fear the Walking Dead
 It's Always Sunny in Philadelphia
 Human Resources
 Hot Skull
+Outlander
+Black Mirror
+The Walking Dead: Dead City
 
 Queued:
 Warrior Nun
@@ -17,11 +19,8 @@ A Small Light
 Drops of God
 Katla
 Somebody Somewhere
-The Walking Dead: Dead City
 The Bear
 Star Trek: Strange New Worlds
-Outlander
-Black Mirror
 Secret Invasion
 
 Ongoing (on hiatus due to writers' strike):
@@ -134,3 +133,4 @@ Staged
 Beef
 Jewish Matchmaking
 Bar Rescue
+Fear the Walking Dead
