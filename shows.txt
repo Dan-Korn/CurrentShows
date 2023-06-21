@@ -1,5 +1,4 @@
 Current:
-Bob’s Burgers
 Silo
 It's Always Sunny in Philadelphia
 Human Resources
@@ -7,6 +6,8 @@ Hot Skull
 Outlander
 Black Mirror
 The Walking Dead: Dead City
+Secret Invasion
+FUBAR
 
 Queued:
 Warrior Nun
@@ -21,7 +22,6 @@ Katla
 Somebody Somewhere
 The Bear
 Star Trek: Strange New Worlds
-Secret Invasion
 
 Ongoing (on hiatus due to writers' strike):
 The Late Show with Stephen Colbert
@@ -134,3 +134,4 @@ Beef
 Jewish Matchmaking
 Bar Rescue
 Fear the Walking Dead
+Bob’s Burgers
