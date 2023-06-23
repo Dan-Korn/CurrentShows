@@ -2,12 +2,12 @@ Current:
 Silo
 It's Always Sunny in Philadelphia
 Human Resources
-Hot Skull
 Outlander
 Black Mirror
 The Walking Dead: Dead City
 Secret Invasion
 FUBAR
+The Bear
 
 Queued:
 Warrior Nun
@@ -20,7 +20,6 @@ A Small Light
 Drops of God
 Katla
 Somebody Somewhere
-The Bear
 Star Trek: Strange New Worlds
 
 Ongoing (on hiatus due to writers' strike):
@@ -135,3 +134,4 @@ Jewish Matchmaking
 Bar Rescue
 Fear the Walking Dead
 Bob’s Burgers
+Hot Skull
