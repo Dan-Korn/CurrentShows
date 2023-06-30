@@ -1,12 +1,10 @@
 Current:
-Silo
 It's Always Sunny in Philadelphia
 Human Resources
 Outlander
 Black Mirror
 The Walking Dead: Dead City
 Secret Invasion
-FUBAR
 Star Trek: Strange New Worlds
 Smartless: On the Road
 
@@ -136,3 +134,5 @@ Fear the Walking Dead
 Bob’s Burgers
 Hot Skull
 The Bear
+Silo
+FUBAR
