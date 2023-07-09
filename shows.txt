@@ -1,6 +1,5 @@
 Current:
 It's Always Sunny in Philadelphia
-Human Resources
 Outlander
 Black Mirror
 The Walking Dead: Dead City
@@ -8,7 +7,7 @@ Secret Invasion
 Star Trek: Strange New Worlds
 Real Sports with Bryant Gumbel
 Jack Ryan
-Luther
+Somebody Somewhere
 
 Queued:
 Warrior Nun
@@ -20,7 +19,6 @@ Citadel
 A Small Light
 Drops of God
 Katla
-Somebody Somewhere
 From
 Dark Winds
 What They Do in the Shadows
@@ -42,7 +40,6 @@ Movies (unwatched):
 The Fastest Woman on Earth
 Blonde
 Licorice Pizza
-Avatar: The Way of Water
 
 Movies watched:
 The Menu
@@ -55,6 +52,7 @@ Top Gun Maverick
 Glass Onion
 Tar
 Luther: The Fallen Sun
+Avatar: The Way of Water
 
 Abandoned:
 Time Hustler
@@ -147,3 +145,5 @@ FUBAR
 The Witcher
 Smartless: On the Road
 Deadloch
+Human Resources
+Luther
