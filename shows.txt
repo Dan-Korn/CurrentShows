@@ -6,7 +6,6 @@ The Walking Dead: Dead City
 Secret Invasion
 Star Trek: Strange New Worlds
 Real Sports with Bryant Gumbel
-Jack Ryan
 Somebody Somewhere
 Miracle Workers
 The Lazarus Project
@@ -155,3 +154,4 @@ Smartless: On the Road
 Deadloch
 Human Resources
 Luther
+Jack Ryan
