@@ -1,7 +1,6 @@
 Current:
 It's Always Sunny in Philadelphia
 Outlander
-Black Mirror
 The Walking Dead: Dead City
 Secret Invasion
 Star Trek: Strange New Worlds
@@ -12,10 +11,10 @@ The Lazarus Project
 The Afterparty
 Foundation
 What They Do in the Shadows
+Bad Sisters
 
 Queued (candidates):
 Dead to Me
-Bad Sisters
 Dahmer — Monster: The Jeffrey Dahmer Story
 Daisy Jones & the Six
 Warrior Nun
@@ -155,3 +154,4 @@ Deadloch
 Human Resources
 Luther
 Jack Ryan
+Black Mirror
