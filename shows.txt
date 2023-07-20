@@ -1,5 +1,4 @@
 Current:
-It's Always Sunny in Philadelphia
 Outlander
 The Walking Dead: Dead City
 Secret Invasion
@@ -156,3 +155,4 @@ Jack Ryan
 Black Mirror
 The Lazarus Project
 Bad Sisters
+It's Always Sunny in Philadelphia
