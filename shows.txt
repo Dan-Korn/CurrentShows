@@ -1,6 +1,5 @@
 Current:
 Outlander
-The Walking Dead: Dead City
 Secret Invasion
 Star Trek: Strange New Worlds
 Real Sports with Bryant Gumbel
@@ -10,9 +9,9 @@ The Afterparty
 Foundation
 What They Do in the Shadows
 Dead to Me
+Dahmer — Monster: The Jeffrey Dahmer Story
 
 Queued (candidates):
-Dahmer — Monster: The Jeffrey Dahmer Story
 Daisy Jones & the Six
 Extrapolations
 Warrior Nun
@@ -156,3 +155,4 @@ Black Mirror
 The Lazarus Project
 Bad Sisters
 It's Always Sunny in Philadelphia
+The Walking Dead: Dead City
