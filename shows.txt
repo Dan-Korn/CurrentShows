@@ -1,6 +1,5 @@
 Current:
 Outlander
-Secret Invasion
 Star Trek: Strange New Worlds
 Real Sports with Bryant Gumbel
 Somebody Somewhere
@@ -156,3 +155,4 @@ The Lazarus Project
 Bad Sisters
 It's Always Sunny in Philadelphia
 The Walking Dead: Dead City
+Secret Invasion
