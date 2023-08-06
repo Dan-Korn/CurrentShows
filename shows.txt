@@ -12,9 +12,9 @@ VEEP
 Dark Winds
 Reservation Dogs
 How To with John Wilson
+Yellowstone
 
 Queued (candidates):
-Good Omens
 Daisy Jones & the Six
 Extrapolations
 Warrior Nun
@@ -161,3 +161,4 @@ The Walking Dead: Dead City
 Secret Invasion
 The Witcher
 Dead to Me
+Good Omens
