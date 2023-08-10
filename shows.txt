@@ -1,6 +1,5 @@
 Current:
 Outlander
-Star Trek: Strange New Worlds
 Real Sports with Bryant Gumbel
 Somebody Somewhere
 Miracle Workers
@@ -15,6 +14,9 @@ How To with John Wilson
 Yellowstone
 Only Murders in the Building
 Strange Planet
+
+Rewatch (irregular binge):
+Star Trek: The Next Generation
 
 Queued (candidates):
 Extrapolations
@@ -164,3 +166,4 @@ The Witcher
 Dead to Me
 Good Omens
 Daisy Jones & the Six
+Star Trek: Strange New Worlds
