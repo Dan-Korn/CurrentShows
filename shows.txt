@@ -1,11 +1,10 @@
 Current:
-Outlander
 Real Sports with Bryant Gumbel
 Somebody Somewhere
 Miracle Workers
 The Afterparty
 Foundation
-What They Do in the Shadows
+What We Do in the Shadows
 Dahmer — Monster: The Jeffrey Dahmer Story
 VEEP
 Dark Winds
@@ -170,3 +169,4 @@ Dead to Me
 Good Omens
 Daisy Jones & the Six
 Star Trek: Strange New Worlds
+Outlander
