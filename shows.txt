@@ -23,7 +23,6 @@ Queued (candidates):
 Extrapolations
 Warrior Nun
 Hunters
-Black Bird
 Lucky Hank
 The Big Door Prize
 Citadel
@@ -36,6 +35,7 @@ Black Knight
 Hello Tomorrow
 George & Tammy
 Welcome to Chippendales
+Love & Death
 
 Ongoing (on hiatus due to writers' strike):
 The Late Show with Stephen Colbert
@@ -172,3 +172,4 @@ Daisy Jones & the Six
 Star Trek: Strange New Worlds
 Outlander
 Tiny Beautiful Things
+Black Bird
