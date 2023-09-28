@@ -1,8 +1,6 @@
 Current (watching as new episodes are released):
 Real Sports with Bryant Gumbel
-Reservation Dogs
 Only Murders in the Building
-Strange Planet
 Ahsoka
 Invasion
 Archer
@@ -33,6 +31,8 @@ From
 Black Knight
 Hello Tomorrow
 Black Snow
+Loki
+Gen V
 
 Ongoing (on hiatus due to writers' strike):
 The Late Show with Stephen Colbert
@@ -185,3 +185,5 @@ Dahmer — Monster: The Jeffrey Dahmer Story
 One Piece
 VEEP
 The Leftovers
+Reservation Dogs
+Strange Planet
