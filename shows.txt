@@ -1,7 +1,6 @@
 Current (watching as new episodes are released):
 Real Sports with Bryant Gumbel
 Invasion
-Archer
 Star Trek: Lower Decks
 The Walking Dead: Daryl Dixon
 Welcome to Wrexham
@@ -48,6 +47,7 @@ Hello Tomorrow
 Black Snow
 Servant
 Fear the Walking Dead
+Doom Patrol
 
 Movies (unwatched):
 The Fastest Woman on Earth
@@ -107,7 +107,6 @@ Mythic Quest
 Derry Girls
 Willow
 The Crown
-Doom Patrol
 Jack Ryan
 Fleishman is in Trouble
 The Legend of Vox Machina
@@ -193,3 +192,4 @@ Only Murders in the Building
 Ahsoka
 The Wheel of Time
 Telemarketers
+Archer
