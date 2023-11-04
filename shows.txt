@@ -1,10 +1,8 @@
 Current (watching as new episodes are released):
 Real Sports with Bryant Gumbel
-Star Trek: Lower Decks
 Welcome to Wrexham
 The Morning Show
 Bob’s Burgers
-Gen V
 Loki
 BattleBots
 Kitchen Nightmares
@@ -196,3 +194,5 @@ Lupin
 The Problem with Jon Stewart
 Invasion
 Our Flag Means Death
+Star Trek: Lower Decks
+Gen V
