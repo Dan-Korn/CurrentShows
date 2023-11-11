@@ -4,7 +4,6 @@ Welcome to Wrexham
 Bob’s Burgers
 BattleBots
 Kitchen Nightmares
-Doom Patrol
 Fear the Walking Dead
 Penn and Teller: Fool Us
 Big Mouth
@@ -198,3 +197,4 @@ Star Trek: Lower Decks
 Gen V
 The Morning Show
 Loki
+Doom Patrol
