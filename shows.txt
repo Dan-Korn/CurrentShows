@@ -2,7 +2,6 @@ Current (watching as new episodes are released):
 Real Sports with Bryant Gumbel
 Welcome to Wrexham
 Bob’s Burgers
-BattleBots
 Kitchen Nightmares
 Fear the Walking Dead
 Penn and Teller: Fool Us
@@ -198,3 +197,4 @@ Gen V
 The Morning Show
 Loki
 Doom Patrol
+BattleBots
