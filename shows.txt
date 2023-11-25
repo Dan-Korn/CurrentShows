@@ -3,7 +3,6 @@ Real Sports with Bryant Gumbel
 Bob’s Burgers
 Kitchen Nightmares
 Penn and Teller: Fool Us
-Invincible
 For All Mankind
 Fargo
 
@@ -198,3 +197,4 @@ BattleBots
 Time (BBC)
 Welcome to Wrexham
 Fear the Walking Dead
+Invincible
