@@ -1,7 +1,6 @@
 Current (watching as new episodes are released):
 Real Sports with Bryant Gumbel
 Bob’s Burgers
-Kitchen Nightmares
 Penn and Teller: Fool Us
 For All Mankind
 Fargo
@@ -201,3 +200,4 @@ Fear the Walking Dead
 Invincible
 The Crown
 Bodies
+Kitchen Nightmares
