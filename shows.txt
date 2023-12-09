@@ -44,8 +44,6 @@ Servant
 All the Light We Cannot See
 
 Movies (unwatched):
-Leave the World Behind
-Mr. Monk's Last Case
 The Fastest Woman on Earth
 Blonde
 Licorice Pizza
@@ -64,6 +62,8 @@ Luther: The Fallen Sun
 Avatar: The Way of Water
 Renfield
 Asteroid City
+Leave the World Behind
+Mr. Monk's Last Case
 
 Abandoned:
 Time Hustler
