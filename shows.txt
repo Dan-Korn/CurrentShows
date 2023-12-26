@@ -3,7 +3,6 @@ Bob’s Burgers
 Penn and Teller: Fool Us
 For All Mankind
 Fargo
-Doctor Who
 Monarch: Legacy of Monsters
 What If...?
 
@@ -205,3 +204,4 @@ The Fall of the House of Usher
 Archer
 Real Sports with Bryant Gumbel
 Big Mouth
+Doctor Who
