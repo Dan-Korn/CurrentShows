@@ -1,7 +1,6 @@
 Current (watching as new episodes are released):
 Bob’s Burgers
 Penn and Teller: Fool Us
-For All Mankind
 Fargo
 Monarch: Legacy of Monsters
 Percy Jackson and the Olympians
@@ -25,6 +24,7 @@ Last Week Tonight
 The Graham Norton Show
 
 Queued (candidates):
+True Detective
 Berlin
 Slow Horses
 Extrapolations
@@ -216,3 +216,4 @@ Blue Eye Samurai
 1923
 Lessons in Chemistry
 All the Light We Cannot See
+For All Mankind
