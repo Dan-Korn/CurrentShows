@@ -56,6 +56,11 @@ Movies (unwatched):
 The Fastest Woman on Earth
 Blonde
 Licorice Pizza
+Nyad
+Rustin
+Killers of the Flower Moon
+May December
+Society of the Snow
 
 Movies watched:
 The Menu
@@ -76,7 +81,9 @@ Mr. Monk's Last Case
 Rebel Moon: Part One - A Child of Fire
 Maestro
 The Holdovers
+Mission: Impossible – Dead Reckoning Part One
 The Creator
+Saltburn
 
 Abandoned:
 Time Hustler
