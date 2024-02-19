@@ -1,7 +1,6 @@
 Current (watching as new episodes are released):
 Bob’s Burgers
 Penn and Teller: Fool Us
-True Detective
 Death and Other Details
 The Woman in the Wall
 Feud: Capote vs. The Swans
@@ -83,6 +82,7 @@ The Holdovers
 Mission: Impossible – Dead Reckoning Part One
 The Creator
 Saltburn
+Nyad
 
 Abandoned:
 Time Hustler
@@ -240,3 +240,4 @@ A Murder at the End of the World
 Slow Horses
 Percy Jackson and the Olympians
 Mr. & Mrs. Smith
+True Detective
