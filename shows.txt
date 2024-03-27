@@ -3,7 +3,6 @@ Bob’s Burgers
 Penn and Teller: Fool Us
 Curb Your Enthusiasm
 Abbott Elementary
-Halo
 Resident Alien
 Star Wars: The Bad Batch
 The Walking Dead: The Ones Who Live
@@ -241,3 +240,4 @@ True Detective
 The Woman in the Wall
 Death and Other Details
 Feud: Capote vs. The Swans
+Halo
