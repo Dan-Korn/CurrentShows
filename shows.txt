@@ -3,7 +3,6 @@ Bob’s Burgers
 Penn and Teller: Fool Us
 Curb Your Enthusiasm
 Abbott Elementary
-Resident Alien
 Star Wars: The Bad Batch
 Bar Rescue
 The Completely Made Up Adventures of Dick Turpin
@@ -242,3 +241,4 @@ Constellation
 Loudermilk
 The Walking Dead: The Ones Who Live
 3 Body Problem
+Resident Alien
