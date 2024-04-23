@@ -4,7 +4,6 @@ Penn and Teller: Fool Us
 Abbott Elementary
 Star Wars: The Bad Batch
 Bar Rescue
-The Completely Made Up Adventures of Dick Turpin
 Loot
 Star Trek: Discovery
 X-Men '97
@@ -248,3 +247,4 @@ Invincible
 Curb Your Enthusiasm
 Fallout
 Time (BBC)
+The Completely Made Up Adventures of Dick Turpin
