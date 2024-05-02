@@ -2,7 +2,6 @@ Current (watching as new episodes are released):
 Bob’s Burgers
 Penn and Teller: Fool Us
 Abbott Elementary
-Star Wars: The Bad Batch
 Bar Rescue
 Loot
 Star Trek: Discovery
@@ -31,7 +30,8 @@ Queued/upcoming (candidates):
 Flowers
 Dead Boy Detectives
 Baby Reindeer
-Dark Matter (2024)
+Dark Matter (2024) (May 8)
+The Lazarus Project (June 9)
 Masters of the Air
 Monsieur Spade
 Berlin
@@ -165,7 +165,6 @@ Human Resources
 Luther
 Jack Ryan
 Black Mirror
-The Lazarus Project
 Bad Sisters
 It's Always Sunny in Philadelphia
 The Walking Dead: Dead City
@@ -253,3 +252,4 @@ Fallout
 Time (BBC)
 The Completely Made Up Adventures of Dick Turpin
 Shogun
+Star Wars: The Bad Batch
