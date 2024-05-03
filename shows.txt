@@ -1,5 +1,4 @@
 Current (watching as new episodes are released):
-Bob’s Burgers
 Penn and Teller: Fool Us
 Abbott Elementary
 Bar Rescue
@@ -27,6 +26,9 @@ The Graham Norton Show
 After Midnight
 
 Queued/upcoming (candidates):
+Welcome to Wrexham
+Hacks
+Doctor Who (May 11)
 Flowers
 Dead Boy Detectives
 Baby Reindeer
@@ -212,7 +214,6 @@ The Morning Show
 Loki
 Doom Patrol
 BattleBots
-Welcome to Wrexham
 Fear the Walking Dead
 Bodies
 Kitchen Nightmares
@@ -220,7 +221,6 @@ The Fall of the House of Usher
 Archer
 Real Sports with Bryant Gumbel
 Big Mouth
-Doctor Who
 The Crown
 What If...?
 Blue Eye Samurai
@@ -253,3 +253,4 @@ Time (BBC)
 The Completely Made Up Adventures of Dick Turpin
 Shogun
 Star Wars: The Bad Batch
+Bob’s Burgers
