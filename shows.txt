@@ -3,7 +3,6 @@ Abbott Elementary
 Bar Rescue
 Loot
 Star Trek: Discovery
-X-Men '97
 Welcome to Wrexham
 Hacks
 Dark Matter (2024)
@@ -259,3 +258,4 @@ Bob’s Burgers
 Star Wars: Tales of the Empire
 Penn and Teller: Fool Us
 Conan O'Brien Must Go
+X-Men '97
