@@ -3,7 +3,6 @@ Bob’s Burgers
 Bar Rescue
 Hacks
 Dark Matter (2024)
-Doctor Who
 The Acolyte
 The Boys
 House of the Dragon
@@ -261,3 +260,4 @@ Abbott Elementary
 Loot
 Star Trek: Discovery
 Welcome to Wrexham
+Doctor Who
