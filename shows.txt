@@ -2,7 +2,6 @@ Current (watching as new episodes are released):
 Bob’s Burgers
 Bar Rescue
 The Acolyte
-The Boys
 House of the Dragon
 The Lazarus Project
 Orphan Black: Echoes
@@ -28,6 +27,7 @@ After Midnight
 
 Queued/upcoming (candidates):
 Sweet Tooth
+Cobra Kai
 Snowpiercer (July 21)
 Time Bandits (July 24)
 The Umbrella Academy (August 8)
@@ -282,3 +282,4 @@ The Bear
 The Dry
 Dead Boy Detectives
 The Outlaws
+The Boys
