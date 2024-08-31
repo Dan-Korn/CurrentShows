@@ -8,7 +8,6 @@ Currently binging:
 30 Rock
 Delicious in Dungeon
 Extras
-Ripley
 
 Rewatch (irregular binge):
 Star Trek: The Next Generation
@@ -33,6 +32,8 @@ Hijack
 Griselda
 The Sympathizer
 Fellow Travelers
+Terminator Zero
+Emily in Paris
 Red Dwarf
 The Ark
 Supacell
@@ -124,7 +125,6 @@ Wednesday
 The Witcher: Blood Origin
 Avenue 5
 Twenty Twelve
-Emily in Paris
 His Dark Materials
 Mythic Quest
 Derry Girls
@@ -284,3 +284,4 @@ The Umbrella Academy
 The Gilded Age
 Palm Royale
 Orphan Black: Echoes
+Ripley
