@@ -1,6 +1,5 @@
 Current (watching as new episodes are released):
 Bob’s Burgers
-Bar Rescue
 Only Murders in the Building
 The Lord of the Rings: The Rings of Power
 Slow Horses
@@ -28,8 +27,16 @@ The Graham Norton Show
 After Midnight
 
 Queued/upcoming (candidates):
-Time Bandits (July 24)
+The Walking Dead: Daryl Dixon (September 29)
 Shrinking (October 16)
+What We Do in the Shadows (October 21)
+Bad Sisters (November 13)
+Silo (November 15)
+Dune: Prophecy (November 15)
+Outlander (November 22)
+Skeleton Crew (December 3)
+Severance (January 17)
+Time Bandits
 Hijack
 Griselda
 Fellow Travelers
@@ -106,7 +113,6 @@ Poker Face
 History of the World Part II
 The Last of Us
 Your Honor
-Shrinking
 The Mandalorian
 Star Trek: Picard
 Shadow and Bone
@@ -131,7 +137,6 @@ Staged
 Beef
 Jewish Matchmaking
 Hot Skull
-Silo
 FUBAR
 Smartless: On the Road
 Deadloch
@@ -139,7 +144,6 @@ Human Resources
 Luther
 Jack Ryan
 Black Mirror
-Bad Sisters
 It's Always Sunny in Philadelphia
 The Walking Dead: Dead City
 Secret Invasion
@@ -148,7 +152,6 @@ Dead to Me
 Good Omens
 Daisy Jones & the Six
 Star Trek: Strange New Worlds
-Outlander
 Tiny Beautiful Things
 Black Bird
 Welcome to Chippendales
@@ -156,7 +159,6 @@ Swarm
 George & Tammy
 Love & Death
 Miracle Workers
-What We Do in the Shadows
 How To with John Wilson
 Dark Winds
 The Tower
@@ -174,7 +176,6 @@ Based on a True Story
 Ahsoka
 The Wheel of Time
 Telemarketers
-The Walking Dead: Daryl Dixon
 Lupin
 The Problem with Jon Stewart
 Invasion
@@ -254,3 +255,4 @@ Ripley
 The Sympathizer
 Lego Star Wars: Rebuild the Galaxy
 Snowpiercer
+Bar Rescue
