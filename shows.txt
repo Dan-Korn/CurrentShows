@@ -4,7 +4,6 @@ Abbott Elementary
 What We Do in the Shadows
 Shrinking
 Star Trek: Lower Decks
-Somebody Somewhere
 Silo
 Bad Sisters
 Dune: Prophecy
@@ -276,3 +275,4 @@ The Franchise
 30 Rock
 Based on a True Story
 Extras
+Somebody Somewhere
