@@ -4,7 +4,6 @@ Abbott Elementary
 Severance
 Penn & Teller: Fool Us
 Mythic Quest
-Your Friendly Neighborhood Spider-Man
 Invincible
 Paradise
 Yellowjackets
@@ -33,11 +32,13 @@ Daredevil Born Again (March 4)
 Dark Winds (March 9)
 The Wheel of Time (March 13)
 The Last of Us (April ???)
+The Handmaid’s Tale (April 8)
 Andor (April 22)
 Ironheart (June 24)
 Eyes of Wakanda (August 6)
 Marvel Zombies (October 3)
 A Knight of the Seven Kingdoms (2025)
+Laid
 Kim's Convenience
 Terminator Zero
 Harley Quinn
@@ -88,7 +89,6 @@ Carol & the End of the World
 Done/hiatus:
 See
 She-Hulk
-The Handmaid’s Tale
 Atlanta
 Year of the Rabbit
 Little Demon
@@ -283,3 +283,4 @@ Outlander
 The Night Agent
 Star Trek: The Next Generation
 Dexter: Original Sin
+Your Friendly Neighborhood Spider-Man
