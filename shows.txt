@@ -5,7 +5,6 @@ Severance
 Penn & Teller: Fool Us
 Mythic Quest
 Invincible
-Paradise
 Yellowjackets
 The White Lotus
 Bar Rescue
@@ -31,6 +30,7 @@ Queued/upcoming (candidates):
 Daredevil: Born Again (March 4)
 Dark Winds (March 9)
 The Wheel of Time (March 13)
+Dope Thief (March 14)
 Side Quest (March 26)
 The Studio (March 26)
 The Handmaid’s Tale (April 8)
@@ -42,6 +42,7 @@ Ironheart (June 24)
 Eyes of Wakanda (August 6)
 Marvel Zombies (October 3)
 A Knight of the Seven Kingdoms (2025)
+Strangers with Candy
 Laid
 Terminator Zero
 Harley Quinn
@@ -287,3 +288,4 @@ Star Trek: The Next Generation
 Dexter: Original Sin
 Your Friendly Neighborhood Spider-Man
 Cobra Kai
+Paradise
