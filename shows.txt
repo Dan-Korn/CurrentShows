@@ -4,7 +4,6 @@ Abbott Elementary
 Severance
 Penn & Teller: Fool Us
 Mythic Quest
-Invincible
 Yellowjackets
 The White Lotus
 Bar Rescue
@@ -34,6 +33,7 @@ Dope Thief (March 14)
 Side Quest (March 26)
 The Studio (March 26)
 The Handmaid’s Tale (April 8)
+Black Mirror (April 10)
 Hacks (April 10)
 Doctor Who (April 12)
 The Last of Us (April 13)
@@ -148,7 +148,6 @@ Deadloch
 Human Resources
 Luther
 Jack Ryan
-Black Mirror
 It's Always Sunny in Philadelphia
 Secret Invasion
 The Witcher
@@ -290,3 +289,4 @@ Dexter: Original Sin
 Your Friendly Neighborhood Spider-Man
 Cobra Kai
 Paradise
+Invincible
