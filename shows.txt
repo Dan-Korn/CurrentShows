@@ -4,7 +4,6 @@ Penn & Teller: Fool Us
 Yellowjackets
 The White Lotus
 Bar Rescue
-1923
 Daredevil: Born Again
 Dark Winds
 The Wheel of Time
@@ -293,3 +292,4 @@ Severance
 The Residence
 Mythic Quest
 Douglas Is Cancelled
+1923
