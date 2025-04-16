@@ -31,7 +31,6 @@ MobLand (March 30)
 The Handmaid’s Tale (April 8)
 Black Mirror (April 10)
 Hacks (April 10)
-Doctor Who (April 12)
 The Last of Us (April 13)
 Andor (April 22)
 The Walking Dead: Dead City (May 4)
@@ -293,3 +292,4 @@ Mythic Quest
 Douglas Is Cancelled
 1923
 The White Lotus
+Doctor Who
