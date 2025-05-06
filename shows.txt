@@ -22,7 +22,6 @@ Jimmy Kimmel Live
 The Daily Show
 Saturday Night Live
 Last Week Tonight
-The Graham Norton Show
 After Midnight
 
 Queued/upcoming (candidates):
@@ -32,7 +31,9 @@ The Handmaid’s Tale (April 8)
 Black Mirror (April 10)
 The Walking Dead: Dead City (May 4)
 Murderbot (May 16)
+The Librarians: The Next Chapter (May 25)
 Ironheart (June 24)
+The Sandman (July 3)
 Eyes of Wakanda (August 6)
 Marvel Zombies (October 3)
 A Knight of the Seven Kingdoms (2025)
@@ -44,7 +45,6 @@ DAN DA DAN
 Pantheon
 Malcom in the Middle
 Before
-The Librarians: The Next Chapter
 Time Bandits
 Hijack
 Griselda
@@ -293,3 +293,5 @@ Yellowjackets
 Daredevil: Born Again
 Dark Winds
 Abbott Elementary
+The Graham Norton Show
+Star Wars: Tales of the Underworld
