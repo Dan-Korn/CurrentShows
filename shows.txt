@@ -8,6 +8,7 @@ Conan O’Brien Must Go
 Murderbot
 Welcome to Wrexham
 Bob’s Burgers
+Gordon Ramsay's Secret Service
 
 Currently binging:
 Flowers
@@ -22,12 +23,10 @@ The Late Show with Stephen Colbert
 Late Night with Seth Meyers
 Jimmy Kimmel Live
 The Daily Show
-Saturday Night Live
-Last Week Tonight
+Last Week Tonight with John Oliver
 After Midnight
 
 Queued/upcoming (candidates):
-Dope Thief (March 14)
 MobLand (March 30)
 Nine Perfect Strangers (May 21)
 The Librarians: The Next Chapter (May 25)
@@ -36,10 +35,20 @@ Ironheart (June 24)
 The Bear (June 25)
 The Sandman (July 3)
 Foundation (July 11)
+Star Trek: Strange New Worlds (July 17)
 Eyes of Wakanda (August 6)
+Outlander: Blood of my Blood (August 8)
+Alien: Earth (August 12)
 Peacemaker (August 21)
+Wednesday (September 3)
 Marvel Zombies (October 3)
 A Knight of the Seven Kingdoms (2025)
+Twisted Metal
+The Eternaut
+Your Friends & Neighbors
+Pee-wee as Himself
+Love, Death + Robots
+Dope Thief
 Strangers with Candy
 Laid
 Terminator Zero
@@ -148,7 +157,6 @@ The Witcher
 Dead to Me
 Good Omens
 Daisy Jones & the Six
-Star Trek: Strange New Worlds
 Tiny Beautiful Things
 Black Bird
 Welcome to Chippendales
@@ -298,3 +306,4 @@ Andor
 The Studio
 Black Mirror
 The Last of Us
+Saturday Night Live
