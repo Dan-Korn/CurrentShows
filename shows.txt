@@ -15,7 +15,6 @@ Flowers
 Inside No. 9
 Scrubs
 Kim's Convenience
-The Handmaid’s Tale
 Big Mouth
 
 Ongoing:
@@ -31,8 +30,11 @@ MobLand (March 30)
 Nine Perfect Strangers (May 21)
 The Librarians: The Next Chapter (May 25)
 Resident Alien (June 6)
+FUBAR (June 12)
+The Gilded Age (June 22)
 Ironheart (June 24)
 The Bear (June 25)
+Squid Game (June 27)
 The Sandman (July 3)
 Foundation (July 11)
 Star Trek: Strange New Worlds (July 17)
@@ -145,7 +147,6 @@ Staged
 Beef
 Jewish Matchmaking
 Hot Skull
-FUBAR
 Smartless: On the Road
 Deadloch
 Human Resources
@@ -239,7 +240,6 @@ Sweet Tooth
 The Lazarus Project
 House of the Dragon
 The Umbrella Academy
-The Gilded Age
 Palm Royale
 Orphan Black: Echoes
 Ripley
@@ -273,7 +273,6 @@ Nobody Wants This
 The Day of the Jackal
 What If...?
 A Man on the Inside
-Squid Game
 Creature Commandos
 Disclaimer
 The Gentlemen
@@ -307,3 +306,4 @@ The Studio
 Black Mirror
 The Last of Us
 Saturday Night Live
+The Handmaid’s Tale
