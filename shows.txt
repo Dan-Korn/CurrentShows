@@ -1,6 +1,5 @@
 Current (watching as new episodes are released):
 Bar Rescue
-Doctor Who
 Poker Face
 The Walking Dead: Dead City
 Conan O’Brien Must Go
@@ -43,6 +42,7 @@ Alien: Earth (August 12)
 Peacemaker (August 21)
 Wednesday (September 3)
 Marvel Zombies (October 3)
+Stranger Things (November 26)
 A Knight of the Seven Kingdoms (2025)
 Twisted Metal
 The Eternaut
@@ -307,3 +307,4 @@ The Last of Us
 Saturday Night Live
 The Handmaid’s Tale
 Hacks
+Doctor Who
