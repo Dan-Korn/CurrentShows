@@ -6,10 +6,9 @@ Murderbot
 Welcome to Wrexham
 Bob’s Burgers
 Gordon Ramsay's Secret Service
+Resident Alien
 
 Currently binging:
-Flowers
-Inside No. 9
 Scrubs
 Kim's Convenience
 Big Mouth
@@ -20,12 +19,10 @@ Late Night with Seth Meyers
 Jimmy Kimmel Live
 The Daily Show
 Last Week Tonight with John Oliver
-After Midnight
 
 Queued/upcoming (candidates):
 Nine Perfect Strangers (May 21)
-The Librarians: The Next Chapter (May 25)
-Resident Alien (June 6)
+Ginny & Georgia (June 5)
 FUBAR (June 12)
 The Gilded Age (June 22)
 Ironheart (June 24)
@@ -35,13 +32,17 @@ The Sandman (July 3)
 Foundation (July 11)
 Star Trek: Strange New Worlds (July 17)
 Eyes of Wakanda (August 6)
+Wednesday (August 6)
 Outlander: Blood of my Blood (August 8)
 Alien: Earth (August 12)
 Peacemaker (August 21)
-Wednesday (September 3)
+Gen V (September 17)
+Slow Horses (September 24)
 Marvel Zombies (October 3)
 Stranger Things (November 26)
-A Knight of the Seven Kingdoms (2025)
+Dying for Sex
+A Knight of the Seven Kingdoms
+The Librarians: The Next Chapter
 Twisted Metal
 The Eternaut
 Your Friends & Neighbors
@@ -94,6 +95,8 @@ Yellowstone
 The Curse
 Reboot
 Carol & the End of the World
+Flowers
+Inside No. 9
 
 Done/hiatus:
 See
@@ -120,7 +123,6 @@ Jack Ryan
 Fleishman is in Trouble
 Kaleidoscope
 Cunk on Earth
-Ginny & Georgia
 History of the World Part II
 Your Honor
 The Mandalorian
@@ -247,7 +249,6 @@ Emily in Paris
 Delicious in Dungeon
 The Lord of the Rings: The Rings of Power
 Scavengers Reign
-Slow Horses
 The Legend of Vox Machina
 The Old Man
 Only Murders in the Building
@@ -308,3 +309,4 @@ Hacks
 Doctor Who
 Conan O’Brien Must Go
 MobLand
+After Midnight
