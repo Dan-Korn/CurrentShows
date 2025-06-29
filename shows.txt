@@ -2,7 +2,6 @@ Current (watching as new episodes are released):
 Bar Rescue
 Poker Face
 Murderbot
-Welcome to Wrexham
 Bob’s Burgers
 Gordon Ramsay's Secret Service
 Resident Alien
@@ -311,3 +310,4 @@ FUBAR
 Big Mouth
 The Walking Dead: Dead City
 The Eternaut
+Welcome to Wrexham
