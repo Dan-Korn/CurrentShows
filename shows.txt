@@ -10,7 +10,6 @@ The Gilded Age
 Currently binging:
 Scrubs
 Kim's Convenience
-Squid Game
 
 Ongoing:
 The Late Show with Stephen Colbert
@@ -23,6 +22,8 @@ Queued/upcoming (candidates):
 Nine Perfect Strangers (May 21)
 Ginny & Georgia (June 5)
 The Sandman (July 3)
+It's Always Sunny in Philadelphia (July 9)
+Dexter: Resurrection (July 11)
 Foundation (July 11)
 Star Trek: Strange New Worlds (July 17)
 Eyes of Wakanda (August 6)
@@ -30,6 +31,7 @@ Wednesday (August 6)
 Outlander: Blood of my Blood (August 8)
 Alien: Earth (August 12)
 Peacemaker (August 21)
+The Walking Dead: Daryl Dixon (September 7)
 Gen V (September 17)
 Slow Horses (September 24)
 Marvel Zombies (October 3)
@@ -145,7 +147,6 @@ Deadloch
 Human Resources
 Luther
 Jack Ryan
-It's Always Sunny in Philadelphia
 Secret Invasion
 The Witcher
 Dead to Me
@@ -247,7 +248,6 @@ The Legend of Vox Machina
 The Old Man
 Only Murders in the Building
 Agatha All Along
-The Walking Dead: Daryl Dixon
 The Diplomat
 The Penguin
 Arcane
@@ -311,3 +311,4 @@ The Eternaut
 Welcome to Wrexham
 The Bear
 Ironheart
+Squid Game
