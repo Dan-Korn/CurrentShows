@@ -21,6 +21,7 @@ The Daily Show
 Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
+The Sandman (July 24)
 Eyes of Wakanda (August 6)
 Wednesday (August 6)
 Outlander: Blood of my Blood (August 8)
@@ -31,7 +32,9 @@ The Walking Dead: Daryl Dixon (September 7)
 Gen V (September 17)
 Slow Horses (September 24)
 Marvel Zombies (October 3)
+The Mighty Nein (November 19)
 Stranger Things (November 26)
+Percy Jackson and the Olympians (December 10)
 Adolescence
 Matlock
 Sirens
@@ -198,7 +201,6 @@ The Amber Ruffin Show
 Echo
 Fargo
 A Murder at the End of the World
-Percy Jackson and the Olympians
 Mr. & Mrs. Smith
 True Detective
 The Woman in the Wall
@@ -313,7 +315,6 @@ Welcome to Wrexham
 The Bear
 Ironheart
 Squid Game
-The Sandman
 Murderbot
 Poker Face
 Bar Rescue
