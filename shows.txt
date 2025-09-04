@@ -10,7 +10,6 @@ Invasion
 Currently binging:
 Scrubs
 Kim's Convenience
-Monsters: The Lyle and Erik Menendez Story
 Matlock
 
 Ongoing:
@@ -22,6 +21,7 @@ Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
 Wednesday (September 3)
+The Paper (September 4)
 The Walking Dead: Daryl Dixon (September 7)
 Only Murders in the Building (September 9)
 Gen V (September 17)
@@ -46,8 +46,8 @@ Emily in Paris (December 18)
 Cunk on Life (January 2)
 The Pitt (January 8)
 KPop Demon Hunters (movie)
+The Rehearsal
 Outlander: Blood of my Blood
-Matlock
 Toxic Town
 Nine Perfect Strangers
 Ginny & Georgia
@@ -324,3 +324,4 @@ Presumed Innocent
 Dept. Q
 The Four Seasons
 Sirens
+Monsters: The Lyle and Erik Menendez Story
