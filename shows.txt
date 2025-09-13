@@ -1,5 +1,4 @@
 Current (watching as new episodes are released):
-Gordon Ramsay's Secret Service
 Alien: Earth
 Peacemaker
 Invasion
@@ -20,7 +19,6 @@ The Daily Show
 Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
-The Paper (September 4)
 Gen V (September 17)
 The Morning Show (September 17)
 Lego Star Wars: Rebuild the Galaxy (September 19)
@@ -43,10 +41,14 @@ Emily in Paris (December 18)
 Cunk on Life (January 2)
 The Pitt (January 8)
 KPop Demon Hunters (movie)
+The Paper
 Platonic
 The Reluctant Traveler
 Rivals
 The Rehearsal
+Mid-Century Modern
+Say Nothing
+Zero Day
 Outlander: Blood of my Blood
 Toxic Town
 Nine Perfect Strangers
@@ -328,3 +330,4 @@ Dexter: Resurrection
 Wednesday
 Star Trek: Strange New Worlds
 Foundation
+Gordon Ramsay's Secret Service
