@@ -4,7 +4,6 @@ The Walking Dead: Daryl Dixon
 Only Murders in the Building
 The Morning Show
 Gen V
-Task
 Slow Horses
 The Lowdown
 Bob’s Burgers
@@ -335,3 +334,4 @@ Alien: Earth
 Marvel Zombies
 House of Guinness
 Peacemaker
+Task
