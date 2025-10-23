@@ -3,7 +3,6 @@ Invasion
 The Walking Dead: Daryl Dixon
 Only Murders in the Building
 The Morning Show
-Gen V
 Slow Horses
 The Lowdown
 Bob’s Burgers
@@ -31,6 +30,7 @@ The Diplomat (October 15)
 Nobody Wants This (October 23)
 Star Wars Visions (October 29)
 Down Cemetery Road (October 30)
+The Witcher (October 30)
 Pluribus (November 7)
 Palm Royale (November 12)
 The Mighty Nein (November 19)
@@ -39,8 +39,11 @@ Stranger Things (November 26)
 Percy Jackson and the Olympians (December 10)
 Fallout (December 17)
 Emily in Paris (December 18)
+The Copenhagen Test (December 27)
 Cunk on Life (January 2)
 The Pitt (January 8)
+Star Trek: Starfleet Academy (January 15)
+Knight of the Seven Kingdoms (January 18)
 Wonder Man (January 27)
 Daredevil: Born Again (March 4)
 Matlock
@@ -164,7 +167,6 @@ Human Resources
 Luther
 Jack Ryan
 Secret Invasion
-The Witcher
 Dead to Me
 Good Omens
 Daisy Jones & the Six
@@ -335,3 +337,4 @@ Marvel Zombies
 House of Guinness
 Peacemaker
 Task
+Gen V
