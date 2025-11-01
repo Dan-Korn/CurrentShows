@@ -23,7 +23,6 @@ Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
 Nobody Wants This (October 23)
-Star Wars Visions (October 29)
 Down Cemetery Road (October 30)
 The Witcher (October 30)
 Pluribus (November 7)
@@ -338,3 +337,5 @@ Invasion
 Only Murders in the Building
 Slow Horses
 The Diplomat
+Star Wars Visions
+
