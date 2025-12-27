@@ -4,7 +4,6 @@ Abbott Elementary
 Saturday Night Live
 The Graham Norton Show
 Palm Royale
-The Mighty Nein
 Matlock
 Fallout
 
@@ -348,3 +347,4 @@ Down Cemetery Road
 Loot
 Pluribus
 Penn & Teller: Fool Us
+The Mighty Nein
