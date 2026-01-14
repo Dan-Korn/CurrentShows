@@ -3,7 +3,6 @@ Bob’s Burgers
 Abbott Elementary
 Saturday Night Live
 The Graham Norton Show
-Palm Royale
 Fallout
 Percy Jackson and the Olympians
 The Pitt
@@ -349,3 +348,4 @@ Stranger Things
 The Copenhagen Test
 Emily in Paris
 All Her Fault
+Palm Royale
