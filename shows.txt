@@ -13,7 +13,6 @@ Scrubs
 Kim's Convenience
 The Traitors
 The Reluctant Traveler
-PONIES
 Wonder Man
 
 Ongoing:
@@ -25,13 +24,15 @@ Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
 The Night Manager (January 11)
+Shrinking (January 27)
 Dark Winds (February 15)
 Paradise (February 23)
 Matlock (February 26)
 Monarch: Legacy of Monsters (February 27)
-Daredevil: Born Again (March 24)
 Outlander (March 6)
 One Piece (March 10)
+Daredevil: Born Again (March 24)
+For All Mankind (March 27)
 The Boys (April 8)
 The War Between the Land and the Sea (2026)
 Agatha Christie's Seven Dials
@@ -200,7 +201,6 @@ The Crown
 Blue Eye Samurai
 Lessons in Chemistry
 All the Light We Cannot See
-For All Mankind
 The Amber Ruffin Show
 Echo
 Fargo
@@ -257,7 +257,6 @@ What We Do in the Shadows
 Star Trek: Lower Decks
 Dune: Prophecy
 Bad Sisters
-Shrinking
 The Day of the Jackal
 What If...?
 Creature Commandos
@@ -350,3 +349,4 @@ All Her Fault
 Palm Royale
 The Beast in Me
 Percy Jackson and the Olympians
+PONIES
