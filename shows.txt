@@ -13,7 +13,6 @@ Scrubs
 Kim's Convenience
 The Traitors
 The Reluctant Traveler
-Wonder Man
 
 Ongoing:
 The Late Show with Stephen Colbert
@@ -27,6 +26,7 @@ The Night Manager (January 11)
 Shrinking (January 27)
 Dark Winds (February 15)
 Paradise (February 23)
+Scrubs (February 25)
 Matlock (February 26)
 Monarch: Legacy of Monsters (February 27)
 Outlander (March 6)
@@ -350,3 +350,4 @@ Palm Royale
 The Beast in Me
 Percy Jackson and the Olympians
 PONIES
+Wonder Man
