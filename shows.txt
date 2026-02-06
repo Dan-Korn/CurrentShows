@@ -22,7 +22,6 @@ The Daily Show
 Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
-The Muppet Show (February 4)
 Dark Winds (February 15)
 The Night Agent (February 19)
 Paradise (February 23)
@@ -352,3 +351,5 @@ PONIES
 Wonder Man
 Fallout
 The Night Manager
+The Muppet Show
+
