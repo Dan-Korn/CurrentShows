@@ -13,7 +13,6 @@ Scrubs
 Kim's Convenience
 The Traitors
 The Reluctant Traveler
-The Chair Company
 
 Ongoing:
 The Late Show with Stephen Colbert
@@ -36,6 +35,7 @@ Daredevil: Born Again (March 24)
 For All Mankind (March 27)
 The Boys (April 8)
 Beef (April 16)
+Spider-Noir (May 25)
 The War Between the Land and the Sea (2026)
 Agatha Christie's Seven Dials
 Common Side Effects
@@ -352,4 +352,4 @@ Wonder Man
 Fallout
 The Night Manager
 The Muppet Show
-
+The Chair Company
