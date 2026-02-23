@@ -4,7 +4,6 @@ Abbott Elementary
 Saturday Night Live
 The Graham Norton Show
 The Pitt
-A Knight of the Seven Kingdoms
 Star Trek: Starfleet Academy
 Shrinking
 Dark Winds
@@ -353,3 +352,4 @@ Fallout
 The Night Manager
 The Muppet Show
 The Chair Company
+A Knight of the Seven Kingdoms
