@@ -16,7 +16,6 @@ Scrubs
 Kim's Convenience
 The Traitors
 The Reluctant Traveler
-The Night Agent
 
 Ongoing:
 The Late Show with Stephen Colbert
@@ -29,6 +28,7 @@ Queued/upcoming (candidates):
 Scrubs (February 25)
 DTF St. Louis (March 1)
 Outlander (March 6)
+Rooster (March 8)
 One Piece (March 10)
 Invincible (March 18)
 Jury Duty Presents: Company Retreat (March 20)
@@ -42,7 +42,10 @@ Beef (April 16)
 Stranger Things: Tales From '85 (April 23)
 Good Omens (May 13)
 Spider-Noir (May 25)
+Lanterns (August)
 The War Between the Land and the Sea (2026)
+Cross
+The Fall and Rise of Reggie Dinkins
 How to Get to Heaven From Belfast
 Mel Brooks: The 99 Year Old Man!
 Agatha Christie's Seven Dials
@@ -361,3 +364,4 @@ The Night Manager
 The Muppet Show
 The Chair Company
 A Knight of the Seven Kingdoms
+The Night Agent
