@@ -3,7 +3,6 @@ Abbott Elementary
 Saturday Night Live
 The Graham Norton Show
 The Pitt
-Star Trek: Starfleet Academy
 Shrinking
 Dark Winds
 Matlock
@@ -36,11 +35,13 @@ Daredevil: Born Again (March 24)
 For All Mankind (March 27)
 Star Wars: Maul – Shadow Lord (April 6)
 The Boys (April 8)
+The Testaments (April 8)
 The Audacity (April 12)
 Beef (April 16)
 Stranger Things: Tales From '85 (April 23)
 Good Omens (May 13)
 Spider-Noir (May 25)
+Star City (May 29)
 Lanterns (August)
 The War Between the Land and the Sea (2026)
 Cross
@@ -365,3 +366,4 @@ The Chair Company
 A Knight of the Seven Kingdoms
 The Night Agent
 Bob’s Burgers
+Star Trek: Starfleet Academy
