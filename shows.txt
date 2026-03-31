@@ -6,7 +6,6 @@ The Pitt
 Shrinking
 Dark Winds
 Matlock
-Paradise
 Monarch: Legacy of Monsters
 DTF St. Louis
 Rooster
@@ -368,3 +367,4 @@ Bob’s Burgers
 Star Trek: Starfleet Academy
 Agatha Christie's Seven Dials
 Peaky Blinders: The Immortal Man
+Paradise
