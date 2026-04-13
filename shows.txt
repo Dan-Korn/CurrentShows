@@ -5,7 +5,6 @@ The Graham Norton Show
 The Pitt
 Matlock
 Monarch: Legacy of Monsters
-DTF St. Louis
 Rooster
 Invincible
 Jury Duty Presents: Company Retreat
@@ -367,3 +366,5 @@ Paradise
 Dark Winds
 Shrinking
 How to Get to Heaven From Belfast
+DTF St. Louis
+
