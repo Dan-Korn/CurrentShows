@@ -7,7 +7,6 @@ Matlock
 Monarch: Legacy of Monsters
 Rooster
 Invincible
-Jury Duty Presents: Company Retreat
 Daredevil: Born Again
 Bar Rescue
 Star Wars: Maul – Shadow Lord
@@ -367,4 +366,5 @@ Dark Winds
 Shrinking
 How to Get to Heaven From Belfast
 DTF St. Louis
+Jury Duty Presents: Company Retreat
 
