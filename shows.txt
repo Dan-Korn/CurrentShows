@@ -26,7 +26,6 @@ The Daily Show
 Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
-Scrubs (February 25)
 Outlander (March 6)
 One Piece (March 10)
 The Testaments (April 8)
@@ -34,8 +33,11 @@ The Audacity (April 12)
 Beef (April 16)
 Stranger Things: Tales From '85 (April 23)
 Good Omens (May 13)
+Welcome to Wrexham (May 14)
 Spider-Noir (May 25)
 Star City (May 29)
+The Legend of Vox Machina (June 3)
+Dark Matter [2024] (August 28)
 Lanterns (August)
 The War Between the Land and the Sea (2026)
 Deadloch
@@ -229,7 +231,6 @@ Conan O'Brien Must Go
 X-Men '97
 Baby Reindeer
 Star Trek: Discovery
-Dark Matter (2024)
 The Dry
 Dead Boy Detectives
 The Outlaws
@@ -246,7 +247,6 @@ Snowpiercer
 Delicious in Dungeon
 The Lord of the Rings: The Rings of Power
 Scavengers Reign
-The Legend of Vox Machina
 The Old Man
 Agatha All Along
 The Penguin
@@ -294,7 +294,6 @@ FUBAR
 Big Mouth
 The Walking Dead: Dead City
 The Eternaut
-Welcome to Wrexham
 The Bear
 Ironheart
 Squid Game
