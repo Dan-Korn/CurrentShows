@@ -5,7 +5,6 @@ The Graham Norton Show
 Matlock
 Monarch: Legacy of Monsters
 Rooster
-Invincible
 Daredevil: Born Again
 Bar Rescue
 Star Wars: Maul – Shadow Lord
@@ -37,6 +36,7 @@ Welcome to Wrexham (May 14)
 Spider-Noir (May 25)
 Star City (May 29)
 The Legend of Vox Machina (June 3)
+Silo (July 3)
 Dark Matter [2024] (August 28)
 Lanterns (August)
 The War Between the Land and the Sea (2026)
@@ -266,7 +266,6 @@ Creature Commandos
 Disclaimer
 The Gentlemen
 Star Wars: Skeleton Crew
-Silo
 Star Trek: The Next Generation
 Dexter: Original Sin
 Your Friendly Neighborhood Spider-Man
@@ -366,3 +365,4 @@ How to Get to Heaven From Belfast
 DTF St. Louis
 Jury Duty Presents: Company Retreat
 The Pitt
+Invincible
