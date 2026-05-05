@@ -4,7 +4,6 @@ The Graham Norton Show
 Rooster
 Daredevil: Born Again
 Bar Rescue
-Star Wars: Maul – Shadow Lord
 The Boys
 For All Mankind
 Hacks
@@ -372,3 +371,4 @@ Scrubs
 Made for March
 Monarch: Legacy of Monsters
 Deadloch
+Star Wars: Maul – Shadow Lord
