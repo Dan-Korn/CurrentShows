@@ -1,7 +1,6 @@
 Current (watching as new episodes are released):
 Saturday Night Live
 The Graham Norton Show
-Rooster
 Bar Rescue
 The Boys
 For All Mankind
@@ -33,11 +32,12 @@ Spider-Noir (May 27)
 Star City (May 29)
 The Legend of Vox Machina (June 3)
 X-Men '97 (June 13)
+House of the Dragon (June 21)
 Silo (July 3)
 Star Trek: Strange New Worlds (July 23)
 Ted Lasso (August 5)
+Lanterns (August 16)
 Dark Matter [2024] (August 28)
-Lanterns (August)
 The War Between the Land and the Sea (2026)
 Margo's Got Money Troubles
 Riot Women
@@ -238,7 +238,6 @@ Bodkin
 The Acolyte
 Sweet Tooth
 The Lazarus Project
-House of the Dragon
 The Umbrella Academy
 Orphan Black: Echoes
 Ripley
@@ -372,3 +371,4 @@ Monarch: Legacy of Monsters
 Deadloch
 Star Wars: Maul – Shadow Lord
 Daredevil: Born Again
+Rooster
