@@ -1,5 +1,4 @@
 Current (watching as new episodes are released):
-The Audacity
 Welcome to Wrexham
 
 Currently binging:
@@ -14,11 +13,7 @@ The Daily Show
 Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
-Outlander (March 6)
-One Piece (March 10)
-The Testaments (April 8)
-Stranger Things: Tales From '85 (April 23)
-Maximum Pleasure Guaranteed (May 20)
+Maximum Pleasure Guaranteed
 Spider-Noir (May 27)
 The Four Seasons (May 28)
 Star City (May 29)
@@ -33,6 +28,10 @@ Lanterns (August 16)
 Dark Matter [2024] (August 28)
 VisionQuest (October 14)
 The War Between the Land and the Sea (2026)
+Outlander
+One Piece
+The Testaments
+Stranger Things: Tales From '85
 Margo's Got Money Troubles
 Riot Women
 Half Man
@@ -221,7 +220,6 @@ The Completely Made Up Adventures of Dick Turpin
 Shogun
 Star Wars: The Bad Batch
 Star Wars: Tales of the Empire
-Conan O'Brien Must Go
 Baby Reindeer
 Star Trek: Discovery
 The Dry
@@ -374,3 +372,4 @@ The Late Show with Stephen Colbert
 For All Mankind
 Hacks
 Kim's Convenience
+The Audacity
