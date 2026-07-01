@@ -1,5 +1,4 @@
 Current (watching as new episodes are released):
-Welcome to Wrexham
 Star City
 House of the Dragon
 
@@ -14,17 +13,19 @@ The Daily Show
 Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
-The Four Seasons (May 28)
 The Bear (June 25)
 X-Men '97 (July 1)
 Silo (July 3)
+Kitchen Nightmares (July 21)
 Star Trek: Strange New Worlds (July 23)
+Stuart Fails to Save the Universe (July 23)
 The Walking Dead: Dead City (July 26)
 Ted Lasso (August 5)
 Lanterns (August 16)
 Dark Matter [2024] (August 28)
 VisionQuest (October 14)
 The War Between the Land and the Sea (2026)
+The Four Seasons
 Not Suitable for Work
 Outlander
 One Piece
@@ -189,7 +190,6 @@ Doom Patrol
 BattleBots
 Fear the Walking Dead
 Bodies
-Kitchen Nightmares
 The Fall of the House of Usher
 Archer
 Real Sports with Bryant Gumbel
@@ -375,3 +375,4 @@ Big Mistakes
 Margo's Got Money Troubles
 Widow's Bay
 The Legend of Vox Machina
+Welcome to Wrexham
