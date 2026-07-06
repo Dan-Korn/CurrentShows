@@ -7,7 +7,6 @@ Silo
 Currently binging:
 The Reluctant Traveler
 Maximum Pleasure Guaranteed
-The Bear
 
 Ongoing:
 Late Night with Seth Meyers
@@ -25,6 +24,7 @@ Lanterns (August 16)
 Dark Matter [2024] (August 28)
 VisionQuest (October 14)
 Life, Larry and the Pursuit of Unhappiness
+Twenty Twenty Six
 The War Between the Land and the Sea (2026)
 The Four Seasons
 Not Suitable for Work
@@ -377,3 +377,4 @@ Margo's Got Money Troubles
 Widow's Bay
 The Legend of Vox Machina
 Welcome to Wrexham
+The Bear
