@@ -10,7 +10,6 @@ Conan O’Brien Must Go
 Currently binging:
 The Reluctant Traveler
 The Comeback
-Bait
 
 Ongoing:
 Late Night with Seth Meyers
@@ -28,6 +27,7 @@ MobLand (September 18)
 LEGO ONE PIECE (September 29)
 Abbott Elementary (October 7)
 VisionQuest (October 14)
+The Gilded Age (November 1)
 The Lord of the Rings: The Rings of Power (November 11)
 Yellowjackets (November 20)
 Percy Jackson and the Olympians (November 20)
@@ -288,7 +288,6 @@ Murderbot
 Poker Face
 Eyes of Wakanda
 Resident Alien
-The Gilded Age
 Dying for Sex
 Adolescence
 It's Always Sunny in Philadelphia
@@ -387,3 +386,4 @@ House of the Dragon
 Star Wars: Visions Presents — The Ninth Jedi
 X-Men '97
 The Four Seasons
+Bait
