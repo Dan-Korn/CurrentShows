@@ -19,7 +19,6 @@ The Daily Show
 Last Week Tonight with John Oliver
 
 Queued/upcoming (candidates):
-LEGO Star Wars: The Mandalorian (September 2)
 The Gentlemen (September 3)
 Slow Horses (September 16)
 MobLand (September 18)
@@ -388,3 +387,4 @@ The Four Seasons
 Bait
 Ride or Die
 Silo
+LEGO Star Wars: The Mandalorian
