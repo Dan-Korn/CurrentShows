@@ -1,6 +1,5 @@
 Current (watching as new episodes are released):
 Stuart Fails to Save the Universe
-Kitchen Nightmares
 Ted Lasso
 Lanterns
 Conan O’Brien Must Go
@@ -28,9 +27,11 @@ The Lord of the Rings: The Rings of Power (November 11)
 Yellowjackets (November 20)
 Percy Jackson and the Olympians (November 20)
 Blade Runner 2099 (November 25)
+Only Murders in the Building (December 8)
 The War Between the Land and the Sea (2026)
 Ahsoka (January 20)
 Neuromancer (January 22)
+Genndy Tartakovsky's Primal
 Mating Season
 Remarkably Bright Creatures
 Not Suitable for Work
@@ -305,7 +306,6 @@ Task
 Gen V
 The Walking Dead: Daryl Dixon
 Invasion
-Only Murders in the Building
 The Diplomat
 Star Wars Visions
 The Lowdown
@@ -388,3 +388,4 @@ Silo
 LEGO Star Wars: The Mandalorian
 Common Side Effects
 The Walking Dead: Dead City
+Kitchen Nightmares
