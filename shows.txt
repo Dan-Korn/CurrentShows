@@ -1,5 +1,4 @@
 Current (watching as new episodes are released):
-Ted Lasso
 Lanterns
 Dark Matter [2024]
 Star Trek: Strange New Worlds
@@ -29,6 +28,7 @@ Only Murders in the Building (December 8)
 The War Between the Land and the Sea (2026)
 Ahsoka (January 20)
 Neuromancer (January 22)
+Scrubs
 Genndy Tartakovsky's Primal
 Mating Season
 Remarkably Bright Creatures
@@ -343,7 +343,6 @@ Jury Duty Presents: Company Retreat
 The Pitt
 Invincible
 Matlock
-Scrubs
 Made for March
 Monarch: Legacy of Monsters
 Deadloch
@@ -388,3 +387,4 @@ Common Side Effects
 The Walking Dead: Dead City
 Kitchen Nightmares
 Conan O’Brien Must Go
+Ted Lasso
