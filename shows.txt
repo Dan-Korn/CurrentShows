@@ -4,7 +4,6 @@ Scrubs [2026]
 Abbott Elementary
 The Graham Norton Show
 The Gilded Age
-The Lowdown
 Dexter: Resurrection
 The Lord of the Rings: The Rings of Power
 Yellowjackets
@@ -390,3 +389,4 @@ Lupin
 VisionQuest
 MobLand
 Cunk on Cinema
+The Lowdown
